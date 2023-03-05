@@ -1,0 +1,12 @@
+body {
+    overflow: hidden;
+}
+
+html, body, div, canvas {
+    margin: 0;
+    padding: 0;
+}
+
+#workspace {
+    background-color: #e0e0e0;
+}
